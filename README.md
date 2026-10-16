@@ -5,7 +5,7 @@ MoviesApp is a SwiftUI movie browser built to demonstrate practical MVVM pattern
 ## App previews
 | iPhone | iPad |
 | --- | --- |
-| `![MoviesApp running on iPhone](./screenshots/iPhone.gif)` | `![MoviesApp running on iPad](./screenshots/iPad.gif)` |
+| ![MoviesApp running on iPhone](./screenshots/iphone.gif) | ![MoviesApp running on iPad](./screenshots/iPad.gif) |
 
 ## Architecture overview
 
